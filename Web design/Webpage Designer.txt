@@ -1,0 +1,36 @@
+<html>
+        <head>
+        <title>Lucas' School Page </title>
+        </head>
+        <body> <h1>My first page</h1><br>
+        <!-- br = break-->  
+        <h2>Look at me go!</h2><br>
+        <p>I don't like this page<br>
+        I want to leave
+        </p>
+	<img src="Labrador-Retrievers-three-colors.jpg"/>
+        <h3>We all do</h3><br>
+	<img src="images.jpg"/>
+        <ul>These are my favorite pizza's
+           <li>Butter and Parm</li>
+           <li>Cheese</li>
+           <li>Pepperoni</li>
+        </ul>
+        <dl>These are my favorite pizza's
+           <dt>Butter and Parm</dt>
+           <li>Cheese</li>
+           <li>Pepperoni</li>
+        </dl>
+	  <form>
+	   <div>
+	    <label>Name</label>
+	    <input>
+	   </div>
+ 	   <div>
+	    <label>Password</label>
+	    <input>
+ 	   </div>
+	  <button>Submit</button>
+	  </form>
+        </body>
+</html>

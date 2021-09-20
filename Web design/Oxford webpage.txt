@@ -1,0 +1,12 @@
+<html>
+	<head>
+	<title>Oxford High School!</title>
+	</head>
+	<body> <h1>Welcome to Oxford High School!</h1><br>
+	<p><b>This Webpage includes information and personal experience of OHS.</b></p><br>
+	<h2>What I like most about Oxford<h2><br>
+	<p><i>What I like most about OHS is the numerous opportunity the school offers to students, and just the community of all the people and students is enough to make me enjoy being there.</i></p><br><hr>
+	<h3><i><b>Check out what Web design taught me!</b></i></h3><br>
+	</head>
+</html>
+	
